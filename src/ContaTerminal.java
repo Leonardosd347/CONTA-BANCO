@@ -7,6 +7,6 @@ public class ContaTerminal {
         //Obeter pela classe scanner os valores digitados no terminal
 
         //Exibir a mensagem conta criada
-        
+        //verificando
     }
 }
